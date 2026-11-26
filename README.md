@@ -56,7 +56,7 @@ O projeto é **local-first**, **MIT** e **grátis e sempre será**. LLM e Mercad
 | Projeto | O que é | Estado |
 | --- | --- | --- |
 | **anota.aqui** | Console local-first para restaurantes: WhatsApp assistido, pedidos, cozinha, entrega, Pix e pós-venda. | em desenvolvimento |
-| **anotaaqui.github.io** | Landing page do projeto, com a jornada e os recursos atuais. | privada por enquanto |
+| **anotaaqui.github.io** | Landing page do projeto, com a jornada e os recursos atuais. | público · [site](https://anotaaqui.github.io/) |
 | **anotaaqui** | Este perfil. | público |
 
 > O código da aplicação está privado por enquanto. Quando abrir, será sob MIT.
