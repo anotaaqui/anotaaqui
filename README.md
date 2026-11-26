@@ -19,7 +19,7 @@
 
 ## Sobre
 
-Sou desenvolvedor e estou construindo o **anota.aqui**, um console de operação para restaurantes que roda na máquina do restaurante. A ideia é simples: o pedido sai do WhatsApp, passa pela cozinha, vira entrega, fecha a conta e termina no pós-venda — sem planilha no meio e sem servidor central.
+Sou pago para resolver os grandes problemas de grandes empresas, e agora invisto dinheiro para criar um grande problema, para os capitalistas proprietários dos meios produtivos e intermediários, apresento o **anota.aqui**, um console de operação para restaurantes que roda na máquina do restaurante. A ideia é simples: o pedido sai do WhatsApp, passa pela cozinha, vira entrega, fecha a conta e termina no pós-venda — sem planilha no meio e sem servidor central.
 
 O projeto é **local-first**, **MIT** e **grátis e sempre será**. LLM e Mercado Pago são opcionais; o fluxo inteiro funciona com ou sem eles.
 
