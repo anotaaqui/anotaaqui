@@ -19,7 +19,7 @@
 
 ## Sobre
 
-Sou contratado para resolver os grandes problemas de grandes empresas, sobrevivendo sob o jugo do capitalismo que trata tudo como mercadoria, como também nos conduz a ver tudo como comercializável. <p></p> Mas também somos agentes de mudança.<p></p> Usando o pouco tempo e recurso que capitalismo não vampirizou, desenvolvi o **anota.aqui**, um console de operação para restaurantes que roda na máquina do restaurante. A ideia é simples: o pedido sai do WhatsApp, passa pela cozinha, vira entrega, fecha a conta e termina no pós-venda — sem planilha no meio e sem servidor central.
+Sou contratado para resolver os grandes problemas de grandes empresas, sobrevivendo sob o jugo do capitalismo que trata tudo como mercadoria, como também nos conduz a ver tudo como comercializável. <p></p> Quase esquecemos que somos agentes de mudança e com potencia.<p></p> Usando o pouco tempo e recurso que capitalismo não vampirizou, desenvolvi o **anota.aqui**, um console de operação para restaurantes que roda na máquina do restaurante. A ideia é simples: o pedido sai do WhatsApp, passa pela cozinha, vira entrega, fecha a conta e termina no pós-venda — sem planilha no meio e sem servidor central.
 
 O projeto é **local-first**, **MIT** e **grátis e sempre será**. LLM e Mercado Pago são opcionais; o fluxo inteiro funciona com ou sem eles.
 
