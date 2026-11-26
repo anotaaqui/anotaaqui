@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-<h1 align="center">Saulo Catharino <span>·</span> anota.aqui</h1>
+<h1 align="center">anota.aqui</h1>
 
 <p align="center">
   <a href="https://github.com/anotaaqui"><img src="https://img.shields.io/badge/GitHub-anotaaqui-16140f?style=flat-square&logo=github&logoColor=f7f3ea" alt="GitHub"></a>
@@ -19,7 +19,7 @@
 
 ## Sobre
 
-Sou pago para resolver os grandes problemas de grandes empresas, e agora invisto dinheiro para criar um grande problema, para os capitalistas proprietários dos meios produtivos e intermediários, apresento o **anota.aqui**, um console de operação para restaurantes que roda na máquina do restaurante. A ideia é simples: o pedido sai do WhatsApp, passa pela cozinha, vira entrega, fecha a conta e termina no pós-venda — sem planilha no meio e sem servidor central.
+Sou contratado para resolver os grandes problemas de grandes empresas para poder sobreviver sob o jugo do capitalismo, somos tratados como mercadoria e conduzidos a ver tudo como comercializável, mas nunca gostei de ser apenas observador, somos agentes de mudança.<p></p> Propondo mudança no cenário, usando o pouco tempo e recurso que capitalismo não vampirizou, desenvolvi o **anota.aqui**, um console de operação para restaurantes que roda na máquina do restaurante. A ideia é simples: o pedido sai do WhatsApp, passa pela cozinha, vira entrega, fecha a conta e termina no pós-venda — sem planilha no meio e sem servidor central.
 
 O projeto é **local-first**, **MIT** e **grátis e sempre será**. LLM e Mercado Pago são opcionais; o fluxo inteiro funciona com ou sem eles.
 
